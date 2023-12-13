@@ -27,6 +27,9 @@ python app.py
 The project structure is designed for clarity and modularity:
 
 templates/: Contains HTML templates for different pages.
+
 static/: Houses static assets such as CSS stylesheets, images, and JavaScript files.
+
 app.py: The main Flask application file.
+
 requirements.txt: Lists the Python dependencies for the project.
